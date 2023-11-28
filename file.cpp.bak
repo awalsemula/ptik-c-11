@@ -22,7 +22,6 @@ int main() {
         cout << "2. Tambah Data Karyawan\n";
         cout << "3. Update Data Karyawan\n";
         cout << "4. Hapus Data Karyawan\n";
-		cout << "5. Hapus Semua Data Karyawan\n";
         cout << "0. Keluar\n";
         cout << "Pilihan Anda: ";
         cin >> pilihan;
